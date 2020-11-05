@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miquelbosch&show_icons=true)
+
 <!--
 **miquelbosch/miquelbosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
